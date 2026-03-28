@@ -8,6 +8,9 @@
   }
 }(typeof globalThis !== 'undefined' ? globalThis : typeof self !== 'undefined' ? self : this, function () {
 
+/*! Copyright (c) 1998, 2002 Pierre L'Ecuyer, DIRO, Université de Montréal. */
+/*! http://www.iro.umontreal.ca/~lecuyer/ */
+
 function Mash() {
   let n = 0xefc8249d;
 
