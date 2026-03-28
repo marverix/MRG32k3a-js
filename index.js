@@ -97,6 +97,6 @@ function MRG32k3a() {
 }
 
 
-  return MRG32k3a;
+  return MRG32k3a();
 
 }));
